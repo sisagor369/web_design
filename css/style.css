@@ -1,0 +1,55 @@
+.logo{
+	height: 50px;
+	background-color: #b3b3ff;
+}
+.sidebarnav{
+	min-height: 600px;
+	background-color: #9999ff;
+	width: 20%;
+	float: left;
+	margin-top: 50px: ;
+}
+.sidebarnav h2{
+	margin-top: 225px;
+	text-align: center;
+}
+.mainbody{
+	min-height: 600px;
+	background-color:#944dff;
+	width: 78%;
+	float: right;
+	margin: 2px solid #cc3399;
+}
+.headerarea{
+	background-color: #ff66ff;
+	height: 50px;
+	text-align: center;
+	padding-top: 20px solid red;
+	width: 99%;
+	border: 3px solid red;
+
+
+}
+
+.headerarea h4{
+	
+}
+.bodyarea{
+	text-align: center;
+	    min-height: 534px;
+    background-color: #bbff33;
+    width: 99%;
+    float: right;
+    border: 5px solid #999966;
+}
+.bodyarea h2{
+	margin-top: 225px;
+}
+
+.footer{
+	height: 25px;
+	text-align: center;
+	clear: both;
+	background-color: #66ccff;
+	margin-top:25px;
+}
